@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+ul {
+    list-style: none;
+}
+
+img {
+    display:block;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+h1 {
+    color: white;
+}
+
+#nos {
+    color: #D2112C;
+}
+
+#dom {
+    color: #0078AC;
+}
+
+.dominos {
+    margin-top: -15px;
+    margin-bottom: -25px;
+}
+
+.littleC, .theHut {
+    margin-bottom: 15px;
+}
+
+.papaJ {
+    margin-bottom: 25px;
+}
+
+
+   
